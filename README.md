@@ -314,7 +314,7 @@ Example output:
 Input:
 
 ```
-FREE prize click now!!!
+URGENT! Your account has been selected. Click the link to get 500 dollars
 ```
 
 
@@ -322,7 +322,7 @@ Output:
 
 ```
 Prediction: Spam
-Probability: 98%
+Probability: 99.31%
 ```
 
 
@@ -339,7 +339,7 @@ Output:
 
 ```
 Prediction: Ham
-Probability: 99%
+Probability: 99.98%
 ```
 
 ---
