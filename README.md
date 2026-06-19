@@ -446,19 +446,6 @@ Possible improvements:
 - Deployment using FastAPI or Streamlit
 
 ---
-
-# License & Dataset Attribution
-
-This project uses a dataset obtained from Kaggle.
-
-Dataset source:
-
-https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
-
-
-Please refer to the original dataset page for dataset license and usage terms.
-
----
 # Author
 
 Javad Mahdavi
