@@ -374,7 +374,7 @@ spam_detection_project/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/mohammad-javad-0/SMS-Spam-Detection.git
+git clone https://github.com/javad-mahdavi/SMS-Spam-Detection.git
 
 cd spam_detection_project
 ```
